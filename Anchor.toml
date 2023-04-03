@@ -3,6 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
+live_streaming = "CBC3aBwHwrRBxuq1zUmJ2DvJ5M8hLDDMgeGgYXxiwNmZ"
 
 [registry]
 url = "https://api.apr.dev"
